@@ -1,4 +1,4 @@
-#Privacy Policy 
+# Privacy Policy 
 
 Privacy Policy for Abide Together Last updated: November 20, 2025 Thank you for using Abide Together. Your privacy is important to us. This Privacy Policy explains what information we collect, how it is used, and your choices regarding your data.
 
