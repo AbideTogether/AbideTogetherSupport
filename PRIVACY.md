@@ -21,17 +21,6 @@ Account Information - Name Email address Firebase Authentication User ID (UID) T
 
 9. Children’s Privacy - Abide Together is intended for use by families and adults. We do not knowingly collect personal information from children under 13 without parental consent.
 
-10. EU/EEA Users (GDPR Compliance)
-If you are located in the European Union (EU) or European Economic Area (EEA), your personal data is processed in compliance with the General Data Protection Regulation (GDPR).
-Your rights under GDPR include:
-The right to access the personal data we hold about you
-The right to request correction or deletion of your data
-The right to restrict or object to certain processing of your data
-The right to data portability
-The right to lodge a complaint with your local data protection authority
-Your data may be stored or processed outside the EU/EEA (for example, using Firebase services). We ensure appropriate safeguards are in place for such transfers.
-How to exercise your rights:
-You can contact us at abidetogether.help@gmail.com to request access, correction, deletion, or any other action regarding your data.
 
 11. Changes to This Policy We may update this Privacy Policy from time to time. The updated policy will always be posted at this URL.
 Contact Us If you have questions, requests, or concerns about this Privacy Policy, contact: Abide Together Support: abidetogether.help@gmail.com
