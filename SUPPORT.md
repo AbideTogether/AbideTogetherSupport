@@ -11,6 +11,9 @@ Report a Bug - When reporting a bug, please include (if possible): Device model 
 
 Request a Feature - Have an idea to make Abide Together better? Email us at: abidetogether.help@gmail.com We love feedback and regularly add user-requested features.
 
-Frequently Asked Questions: Is my data private? Yes. Your information is stored securely in Firebase and is never shared unless you choose to add family or friends inside the app. Does Abide Together sync across devices? Yes. Data is synced securely using Firebase Firestore, simply login to your account. Why do I need an account? Accounts allow your recipes, notes, calendar events, and prayers to stay synced across devices and shared with your chosen family group. You can choose to use the app as a guest, but we cannot guarentee that your data will be saved or sync correctly when you reopen the app.
+Frequently Asked Questions: 
+  -Is my data private? Yes. Your information is stored securely in Firebase and is never shared unless you choose to add family or friends inside the app. 
+  -Does Abide Together sync across devices? Yes. Data is synced securely using Firebase Firestore, simply login to your account. 
+  -Why do I need an account? Accounts allow your recipes, notes, calendar events, and prayers to stay synced across devices and shared with your chosen family group. You can choose to use the app as a guest, but we cannot guarentee that your data will be saved or sync correctly when you reopen the app.
 
 Data Safety - Abide Together uses: Encrypted HTTPS/TLS connections Secure Firebase Authentication Firebase Firestore with encrypted storage We take your privacy seriously.
